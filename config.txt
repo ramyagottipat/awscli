@@ -1,0 +1,1 @@
+This is my AWS CLI automation test file
